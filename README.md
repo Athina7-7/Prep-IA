@@ -12,3 +12,6 @@ Prep-IA es una web conectada a IA que simula entrevistas por voz en tres modos: 
 -
 
 # Autores
+- Athina Cappelletti
+- Nathalia Cardoza
+- ...
